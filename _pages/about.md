@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+I am a PhD researcher at [information system group](https://www.tue.nl/en/research/research-groups/design-and-decision-support-systems/information-systems-in-the-built-environment), [design-and-decision-support-systems](https://www.tue.nl/en/research/research-groups/design-and-decision-support-systems), [Eindhoven University of Technology](https://www.tue.nl/en/). My work centres on the integration and utilisation of diverse data from various sources and spatial levels within urban environments. By using Semantic Web Technologies, I aim to unify decentralised data, facilitating advanced data-driven decision-making processes in urban planning. My research keywords include digital twin, semantic web technologies, smart cities, energy transition, and sustainable built environment.
+You can find my resume here
+[Email](x.liu1@tue.nl)
+[Github](https://github.com/xuanliu-1)
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
