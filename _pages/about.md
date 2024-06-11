@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher at [information system group](https://www.tue.nl/en/research/research-groups/design-and-decision-support-systems/information-systems-in-the-built-environment), [design-and-decision-support-systems](https://www.tue.nl/en/research/research-groups/design-and-decision-support-systems), [Eindhoven University of Technology](https://www.tue.nl/en/). My work centres on the integration and utilisation of diverse data from various sources and spatial levels within urban environments. By using Semantic Web Technologies, I aim to unify decentralised data, facilitating advanced data-driven decision-making processes in urban planning. My research keywords include digital twin, semantic web technologies, smart cities, energy transition, and sustainable built environment.
+I am a PhD researcher at [Information System Group](https://www.tue.nl/en/research/research-groups/design-and-decision-support-systems/information-systems-in-the-built-environment), [Design and Decision Support Systems](https://www.tue.nl/en/research/research-groups/design-and-decision-support-systems), [Eindhoven University of Technology](https://www.tue.nl/en/). My work centres on the integration and utilisation of diverse data from various sources and spatial levels within urban environments. By using Semantic Web Technologies, I aim to unify decentralised data, facilitating advanced data-driven decision-making processes in urban planning. My research keywords include digital twin, semantic web technologies, smart cities, energy transition, and sustainable built environment.
 You can find my resume here
 [Email](mailto:x.liu1@tue.nl)
 [Github](https://github.com/xuanliu-1)
