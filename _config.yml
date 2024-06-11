@@ -24,7 +24,7 @@ author:
   name             : "Xuan Liu"
   pronouns         : # example: "she/her"  
   bio              : "Hello, I am Xuan Liu. Thanks for visiting my page."
-  location         : "the Netherlands"
+  location         : "Netherlands"
   employer         : "Eindhoven University of Technology"
   uri              : # URL
   email            : "x.liu1@tue.nl" 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/xuan-liu-705120152/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
