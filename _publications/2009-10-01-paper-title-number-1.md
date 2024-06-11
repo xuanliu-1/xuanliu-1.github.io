@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "The willingness of social housing tenants to participate in natural gas-free heating systems project: Insights from a stated choice experiment in the Netherlands"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
