@@ -3,7 +3,7 @@ title: "The willingness of social housing tenants to participate in natural gas-
 collection: publications
 permalink: (https://www.sciencedirect.com/science/article/pii/S030626192301070X)
 date: 2023
-# paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+# paperurl: 'http://xuanliu-1.github.io/files/1-s2.0-S030626192301070X-main.pdf'
 citation: 'Liu, X., Yang, D., Arentze, T., & Wielders, T. (2023). The willingness of social housing tenants to participate in natural gas-free heating systems project: Insights from a stated choice experiment in the Netherlands. Applied Energy, 350, 121706.'
 ---
 
