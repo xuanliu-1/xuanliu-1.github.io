@@ -11,9 +11,3 @@ Abadtrat: One of the main tools to achieve the promise of carbon neutrality is t
 
 Keywords: Energy efficient renovation; Energy transition; Social housing; Sustainable community; Latent class model; Discrete choice model
 
-Highlights:
-Increasing social housing retrofit contributes to the energy transition.
-Determine attributes in promoting tenants' interest in energy-efficiency renovations.
-Captured the preference heterogeneity by a mixed logit model.
-Observe heterogeneous preferences among latent class membership respondents.
-Gain and hedonic motives exert key roles in attracting tenants' willingness to participate.
