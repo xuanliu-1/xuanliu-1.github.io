@@ -17,13 +17,13 @@ Education
 
 Work experience
 ======
-* Summer 2021: Visiting Research Assistant
+* Summer 2021 : Visiting Research Assistant
   * Hong Kong Polytechnic University
 
-* 2018 - 2020: Research Assistant
+* 2018-2020 : Research Assistant
   * Hong Kong Polytechnic University
 
-* Fall 2019: Research Assistant
+* Fall 2019 : Research Assistant
   * University of Hong Kong 
 
 Publications
