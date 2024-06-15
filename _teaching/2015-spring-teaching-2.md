@@ -1,20 +1,6 @@
 ---
-title: "Teaching experience 1"
+title: "Entrance Project for Construction Management Engineering"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Master course"
+venue: "Eindhoven University of Technology, Department of the Built Environment"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
