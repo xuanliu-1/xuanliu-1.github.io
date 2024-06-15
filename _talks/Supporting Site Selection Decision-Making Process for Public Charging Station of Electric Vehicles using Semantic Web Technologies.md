@@ -1,7 +1,7 @@
 ---
 title: "Supporting Site Selection Decision-Making Process for Public Charging Station of Electric Vehicles using Semantic Web Technologies"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference"
 venue: "Urban Transition 2022"
 date: 2022-11-08
 location: "Barcelona, Spain"
