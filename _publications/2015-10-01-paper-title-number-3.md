@@ -1,13 +1,9 @@
 ---
-title: "Paper Title Number 3"
+title: "BIM-enabled semantic web for automated safety checks in subway construction"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Abstract: Rule-based construction safety checking aims to inspect safety risk factors during the construction process to ensure that risk factor states are within safety thresholds. However, integrating multisource safety risk factors and text-based rules remains a challenge. This study proposes a semantic approach to integrate heterogeneous data under a building information modeling (BIM) environment and enable automated safety checking through SPARQL-based reasoning. In this framework, four interconnected ontologies are developed to provide a semantic schema for subway construction safety checking. Safety risk factors data are extracted from BIM and sensor data and then converted into integrated ontology instances. Text-based rules are automatically transformed into SPARQL-based checking rules. The proposed framework can improve knowledge sharing and promote real-time and automated safety checking. A case is illustrated to show how the framework can be applied, confirming the feasibility and effectiveness of the proposed framework.'
+date: 2022-06-29
+venue: 'Automation in Construction'
+citation: 'Li, X., Yang, D., Yuan, J., Donkers, A., & Liu, X. (2022). BIM-enabled semantic web for automated safety checks in subway construction. Automation in construction, 141, 104454.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
