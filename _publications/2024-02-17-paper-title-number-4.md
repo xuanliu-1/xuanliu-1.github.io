@@ -1,12 +1,10 @@
 ---
-title: "Paper Title Number 4"
+title: "Determinants and mechanisms driving energy-saving behaviours of long-stay hotel guests: Comparison of leisure, business and extended-stay residential cases"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: "Abstract: The global hospitality industry is fast-turning sustainable and environmentally friendly. Behaviour-driven energy conservation is an emerging green hotel operation strategy to support this change. The long-stay accommodation services have gained momentum in the hospitality sector since the COVID-19 pandemic. However, the characteristics of long-stay hotel guests are often overlooked in sustainable interventions. Based on an empirical survey in China, this study aims to explore the factors driving energy-saving behaviours of long-stay hotel guests and to compare their effects on guests for different visiting purposes (leisure, business, and extended-stay resident). The analysis indicates that attitude, personal norm and place attachment present a direct contribution to energy-saving behaviour. Besides, the results support that attitude and personal norm connect environmental values and energy-saving behaviour. Both altruistic and biospheric values have positive effects, while egoistic values seem to play a negative role. Biospheric values have stronger impact on attitude and personal norm of business guests. Place attachment has a stronger influence on extended-stay residents while its contribution to energy-saving behaviours of business guests is smaller than other guests. Besides, leisure guests are more sensitive to moral obligations. This research sheds novel lights on the psychological perspectives of the observed heterogeneity of energy-saving behaviours of hotel guests with different visiting purposes. The findings provide hotel operators with a novel theoretical reference for targeted energy-saving interventions to promote energy-saving actions of long-term hotel guests. The study, therefore, can contribute to sustainable tourism policymaking and behaviour-driven hotel energy management."
+date: 2022-12-29
+venue: 'Energy Reports'
+paperurl: 'https://github.com/xuanliu-1/xuanliu-1.github.io/blob/46e9b9181a6644fcbc95557c1a4f7b82c560f1ac/files/1-s2.0-S0921344921004328-main.pdf'
+citation: 'Wang, Q. C., Lou, Y. N., Liu, X., Jin, X., Li, X., & Xu, Q. (2023). Determinants and mechanisms driving energy-saving behaviours of long-stay hotel guests: Comparison of leisure, business and extended-stay residential cases. Energy Reports, 9, 1354-1365.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
